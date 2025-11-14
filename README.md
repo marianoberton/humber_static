@@ -1,0 +1,1 @@
+# Humber Static\n\nLanding estática para publicación vía GitHub Pages.\n\n- Index: \index.html\\n- Assets: \ssets/\\n- JS: \js/\\n\nPara publicar:\n1. Configurar GitHub Pages: Settings ? Pages  Source: Deploy from a branch  Branch: \main\, Folder: \/root\.\n2. Esperar 13 minutos hasta que el sitio esté disponible.\n\n

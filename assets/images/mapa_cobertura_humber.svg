@@ -1,0 +1,88 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo del mapa -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Países del Cono Sur en amarillo -->
+  <!-- Argentina -->
+  <path d="M300 200 L350 180 L380 220 L400 280 L420 350 L430 420 L440 480 L450 520 L440 550 L420 570 L380 580 L340 575 L300 560 L280 520 L270 480 L260 420 L270 350 L280 280 L290 220 Z" fill="#FFD700" stroke="#E6C200" stroke-width="2"/>
+  
+  <!-- Chile -->
+  <path d="M250 220 L270 200 L280 240 L290 300 L300 380 L310 460 L320 540 L315 580 L300 590 L280 585 L260 575 L250 550 L240 500 L235 450 L230 400 L235 350 L240 300 L245 250 Z" fill="#FFD700" stroke="#E6C200" stroke-width="2"/>
+  
+  <!-- Uruguay -->
+  <path d="M420 380 L450 375 L470 385 L480 400 L475 420 L460 430 L440 425 L425 410 Z" fill="#FFD700" stroke="#E6C200" stroke-width="2"/>
+  
+  <!-- Paraguay -->
+  <path d="M380 280 L420 275 L440 290 L450 310 L445 330 L430 340 L410 335 L390 320 L385 300 Z" fill="#FFD700" stroke="#E6C200" stroke-width="2"/>
+  
+  <!-- Bolivia -->
+  <path d="M320 180 L370 175 L390 190 L400 220 L395 250 L380 270 L360 275 L340 270 L325 250 L320 220 L315 200 Z" fill="#FFD700" stroke="#E6C200" stroke-width="2"/>
+  
+  <!-- Brasil (parte sur) -->
+  <path d="M420 150 L480 145 L520 160 L550 180 L570 220 L580 260 L575 300 L560 340 L540 370 L520 390 L500 400 L480 395 L460 385 L450 370 L445 350 L450 330 L460 310 L470 290 L480 270 L490 250 L500 230 L510 210 L520 190 L530 170 L520 150 L500 140 L480 135 L460 140 L440 145 Z" fill="#FFD700" stroke="#E6C200" stroke-width="2"/>
+  
+  <!-- Perú -->
+  <path d="M280 120 L320 115 L340 130 L350 150 L345 170 L330 185 L315 190 L300 185 L285 170 L280 150 L275 130 Z" fill="#FFD700" stroke="#E6C200" stroke-width="2"/>
+  
+  <!-- Países vecinos en gris claro -->
+  <!-- Colombia -->
+  <path d="M250 50 L300 45 L330 60 L340 80 L335 100 L320 110 L300 105 L280 100 L260 85 L250 70 Z" fill="#E5E5E5" stroke="#CCCCCC" stroke-width="1"/>
+  
+  <!-- Venezuela -->
+  <path d="M300 30 L350 25 L380 40 L390 60 L385 80 L370 90 L350 85 L330 80 L310 65 L300 50 Z" fill="#E5E5E5" stroke="#CCCCCC" stroke-width="1"/>
+  
+  <!-- Ecuador -->
+  <path d="M240 90 L280 85 L290 100 L285 120 L270 130 L250 125 L240 110 Z" fill="#E5E5E5" stroke="#CCCCCC" stroke-width="1"/>
+  
+  <!-- Marcadores de ubicación con logo H -->
+  <!-- Buenos Aires, Argentina -->
+  <g transform="translate(380, 450)">
+    <circle cx="0" cy="0" r="15" fill="#FF6B35" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="0" y="5" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">H</text>
+  </g>
+  
+  <!-- Santiago, Chile -->
+  <g transform="translate(280, 420)">
+    <circle cx="0" cy="0" r="15" fill="#FF6B35" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="0" y="5" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">H</text>
+  </g>
+  
+  <!-- Montevideo, Uruguay -->
+  <g transform="translate(450, 400)">
+    <circle cx="0" cy="0" r="15" fill="#FF6B35" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="0" y="5" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">H</text>
+  </g>
+  
+  <!-- Asunción, Paraguay -->
+  <g transform="translate(410, 310)">
+    <circle cx="0" cy="0" r="15" fill="#FF6B35" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="0" y="5" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">H</text>
+  </g>
+  
+  <!-- La Paz, Bolivia -->
+  <g transform="translate(350, 220)">
+    <circle cx="0" cy="0" r="15" fill="#FF6B35" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="0" y="5" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">H</text>
+  </g>
+  
+  <!-- São Paulo, Brasil -->
+  <g transform="translate(520, 350)">
+    <circle cx="0" cy="0" r="15" fill="#FF6B35" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="0" y="5" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">H</text>
+  </g>
+  
+  <!-- Lima, Perú -->
+  <g transform="translate(300, 150)">
+    <circle cx="0" cy="0" r="15" fill="#FF6B35" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="0" y="5" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">H</text>
+  </g>
+  
+  <!-- Océano Pacífico -->
+  <rect x="0" y="0" width="220" height="600" fill="#B3D9FF" opacity="0.3"/>
+  
+  <!-- Océano Atlántico -->
+  <rect x="580" y="0" width="220" height="600" fill="#B3D9FF" opacity="0.3"/>
+  
+  <!-- Título del mapa -->
+  <text x="400" y="30" text-anchor="middle" fill="#333333" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Cobertura Humber - Cono Sur</text>
+</svg>
